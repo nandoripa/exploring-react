@@ -1,0 +1,3 @@
+# exclude everything inside node_modules folder but maintain the folder
+node_modules/*
+!node_modules/.gitkeep
